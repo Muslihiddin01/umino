@@ -1,0 +1,20 @@
+* {
+    line-height: inherit;
+}
+body {
+    margin: auto;
+    max-width: 1300px;
+    padding: 20px;
+}
+h4 {
+    color: #555555;
+}
+button, i {
+    cursor: pointer;
+}
+.grid-cols-6 {
+    grid-template-columns: auto;
+}
+.leading-7 {
+    line-height: 28px;
+}
