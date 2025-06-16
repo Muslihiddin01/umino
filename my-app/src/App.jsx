@@ -41,6 +41,7 @@ import Unique from './components/unique'
 import Follow from './components/follow'
 
 function App() {
+  const [count, setCount] = useState(0)
 
   return (
     <>
